@@ -20,6 +20,7 @@ Once I have our model saved, I move onto Jupyter Notebooks.
 Second, I go into Jupyter Notebook and code the app using streamlit. 
 This video was so helpful in building the app: https://www.youtube.com/watch?v=Q1NC3NbmVlc
 Another great resource: https://towardsdatascience.com/how-to-build-an-image-classification-app-using-logistic-regression-with-a-neural-network-mindset-1e901c938355
+
 The code is saved in the file: "Photo ID App.py"
 
 Save the app as app_name.py
