@@ -11,13 +11,16 @@ Kaggle link to data: https://www.kaggle.com/vbookshelf/v2-plant-seedlings-datase
 First, build the model. I used this resource for an image classification model using a convolutional nueral network:
 https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
 
+The model code is saved in the file titled "Plant_id_proj.py"
+
 I performed all of the code from above in Spyder. I then saved my model at the end once it was finalized into a script.
 
-Once I have our model saved, I move onto Jupyter Notebooks.
+Once I have our model saved, I move onto Jupyter Notebooks. 
 
 Second, I go into Jupyter Notebook and code the app using streamlit. 
 This video was so helpful in building the app: https://www.youtube.com/watch?v=Q1NC3NbmVlc
 Another great resource: https://towardsdatascience.com/how-to-build-an-image-classification-app-using-logistic-regression-with-a-neural-network-mindset-1e901c938355
+The code is saved in the file: "Photo ID App.py"
 
 Save the app as app_name.py
 
