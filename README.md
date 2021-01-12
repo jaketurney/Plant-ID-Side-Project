@@ -36,3 +36,7 @@ A terminal for Python3 will open. You will need to code this:
 6. streamlit run app.py
 
 It should open up automatically to where you want to go!
+
+Next steps:
+- Add more photos of different species of weeds to the model so it can classify other types of weeds
+- Scrape images from google on the different weeds to build a more accurate model
