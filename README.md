@@ -6,6 +6,8 @@ Here we have a walk through of how to:
 2. Use streamlit to build an app of the model in Jupyter Notebooks
 3. Deploy the app of the model built with streamlit using the CMD Terminal 
 
+Kaggle link to data: https://www.kaggle.com/vbookshelf/v2-plant-seedlings-dataset
+
 First, build the model. I used this resource for an image classification model using a convolutional nueral network:
 https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
 
