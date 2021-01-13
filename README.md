@@ -1,6 +1,8 @@
 # Plant-ID-Side-Project
 To better understand neural networks and image classification, I downloaded a plant photo data set from Kaggle and built out a classification model in Python. I then created an interactive web app where a user can upload a picture of a plant and the model will make a prediction on its classification. 
 
+The project is original but a lot of the code I used was found within the links that are listed throughout this sheet. I do not want to plagiarize and do not intend to. I respect the work of all authors and data scientists who put together the following public resources that I used to accomplish this project. 
+
 Here we have a walk through of how to:
 1. Build an image classification model within Spyder or Jupyter Notebooks
 2. Use streamlit to build an app of the model in Jupyter Notebooks
@@ -18,7 +20,7 @@ I performed all of the code from above in Spyder. I then saved my model at the e
 Once I have our model saved, I move onto Jupyter Notebooks. 
 
 Second, I go into Jupyter Notebook and code the app using streamlit. 
-This video was so helpful in building the app: https://www.youtube.com/watch?v=Q1NC3NbmVlc
+This video was so helpful in building the app and showing me how to code for it: https://www.youtube.com/watch?v=Q1NC3NbmVlc
 Another great resource: https://towardsdatascience.com/how-to-build-an-image-classification-app-using-logistic-regression-with-a-neural-network-mindset-1e901c938355
 
 The code is saved in the file: "Photo ID App.py"
