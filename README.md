@@ -13,7 +13,8 @@ Kaggle link to data: https://www.kaggle.com/vbookshelf/v2-plant-seedlings-datase
 First, build the model. I used this resource for an image classification model using a convolutional nueral network:
 https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
 
-The model code is saved in the file titled "Plant_id_proj.py"
+The model code is saved in the file titled "Plant_id_proj.py" for just 2 plant types.
+For all 12 plant types, see the file titled "
 
 I performed all of the code from above in Spyder. I then saved my model at the end once it was finalized into a script.
 
