@@ -14,7 +14,7 @@ First, build the model. I used this resource for an image classification model u
 https://www.analyticsvidhya.com/blog/2020/10/create-image-classification-model-python-keras/
 
 The model code is saved in the file titled "Plant_id_proj.py" for just 2 plant types.
-For all 12 plant types, see the file titled "
+For all 12 plant types, see the file titled "ID_Proj_2."
 
 I performed all of the code from above in Spyder. I then saved my model at the end once it was finalized into a script.
 
@@ -25,6 +25,7 @@ This video was so helpful in building the app and showing me how to code for it:
 Another great resource: https://towardsdatascience.com/how-to-build-an-image-classification-app-using-logistic-regression-with-a-neural-network-mindset-1e901c938355
 
 The code is saved in the file: "Photo ID App.py"
+Updated application code for 12 plant files model is "app2."
 
 Save the app as app_name.py
 
